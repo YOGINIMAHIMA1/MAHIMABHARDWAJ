@@ -1,4 +1,5 @@
-![The-2022-Smart-1536x864](https://user-images.githubusercontent.com/90374311/192100219-a7e51472-ccdb-429f-be45-848f7ff5dfac.jpg)
+![image](https://user-images.githubusercontent.com/90374311/192100304-509242fb-739f-44a4-a3f0-14609a1ad159.png)
+
 
 
 <h1>Mahima Bhardwaj</h1><br>
