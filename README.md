@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://MahimaBhardwaj.io)
+background-image:url(https://img.freepik.com/free-vector/data-stream-digital-binary-code-background_1017-30372.jpg?w=2000')
 
 <h1>Mahima Bhardwaj</h1><br>
 <b>Dreamer </b>  <u> Believer </u>  <em>Achiever</em><br>
