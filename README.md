@@ -1,4 +1,5 @@
-https://img.freepik.com/free-vector/data-stream-digital-binary-code-background_1017-30372.jpg?w=2000
+![The-2022-Smart-1536x864](https://user-images.githubusercontent.com/90374311/192100219-a7e51472-ccdb-429f-be45-848f7ff5dfac.jpg)
+
 
 <h1>Mahima Bhardwaj</h1><br>
 <b>Dreamer </b>  <u> Believer </u>  <em>Achiever</em><br>
