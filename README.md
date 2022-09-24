@@ -3,9 +3,9 @@
 <b>C/C++ Programmer/Developer</b><br>
 <i>Html 5/Css</i><br>
 <hr width="80px" height="40px" color="red" />
-Good Knowledge of Cmd
-Microsoft Azure Badge Achiever
-hackerrank certificate- My sql Basics/Intermediate
+<marquee>Good Knowledge of Cmd<br></marquee>
+<b>Microsoft Azure Badge Achiever<b><br>
+  <h2>hackerrank certificate- My sql Basics/Intermediate</h2><br>
 
 <!---
 YOGINIMAHIMA1/YOGINIMAHIMA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
