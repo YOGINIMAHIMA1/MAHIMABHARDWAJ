@@ -1,9 +1,11 @@
-Mahima BHardwaj
-Dreamer Achiever 
-C/C++ Programmer/Developer
-Html 5/Css
-Basic Knowledge of Cmd
+<h1>Mahima Bhardwaj</h1><br>
+<b>Dreamer </b>  <u> Believer </u>  <em>Achiever</em><br>
+<b>C/C++ Programmer/Developer</b><br>
+<i>Html 5/Css</i><br>
+<hr width="80px" height="40px" color="red" />
+Good Knowledge of Cmd
 Microsoft Azure Badge Achiever
+hackerrank certificate- My sql Basics/Intermediate
 
 <!---
 YOGINIMAHIMA1/YOGINIMAHIMA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
