@@ -49,8 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoginimahima1&show_icons=true&locale=en" alt="yoginimahima1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoginimahima1&" alt="yoginimahima1" /></p>
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 
 <a href=#><img src="contributions.svg"></a>
 
